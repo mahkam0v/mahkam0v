@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahkamov! ✨
 
-> Backend Developer | Focused on scalable system architecture and database optimization.
+> Backend Developer | Node.js, Express.js, PostgreSQL & System Design Enthusiast
 
 ---
 
