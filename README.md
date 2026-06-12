@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahkamov! ✨
+# 👋 Hi, I'm Mahkamov Otabek! ✨
 
 > Backend Developer | Focused on scalable system architecture and database optimization.
 
@@ -21,11 +21,19 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats & Progress
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mahkam0v&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahkam0v&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahkam0v&theme=tokyonight" width="97%" />
+</p>
+
+---
 
 ---
 
