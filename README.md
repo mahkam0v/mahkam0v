@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Otabek! ✨
+# 👋 Hi, I'm Mahkamov! ✨
 
 > Backend Developer | Focused on scalable system architecture and database optimization.
 
@@ -11,6 +11,27 @@
 
 ---
 
+## 🛠️ Tech Stack & Tools
+*Technologies and tools I work with daily:*
+
+### ⚙️ Backend & Runtimes
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases & ORMs
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+
+### 💻 Environment & Tools
+![](https://img.shields.io/badge/Arch_Linux-31A8DD?style=for-the-badge&logo=archlinux&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats & Progress
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mahkam0v&show_icons=true&theme=tokyonight" width="48%" />
@@ -20,8 +41,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahkam0v&theme=tokyonight" width="97%" />
 </p>
-
----
 
 ---
 
