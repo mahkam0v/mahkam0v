@@ -11,11 +11,6 @@
 
 ---
 
-#47A248
----
-
----
-
 ## 📊 GitHub Stats & Progress
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mahkam0v&show_icons=true&theme=tokyonight" width="48%" />
