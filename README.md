@@ -51,4 +51,4 @@
 ## 🤝 Let's Connect!
 Always open to collaborating on backend projects or discussing clean system architecture. Feel free to reach out:
 
-[![](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
+[![](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mahkam0v_ww)
