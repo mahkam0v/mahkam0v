@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahkamov! ✨
+# 👋 Hi, I'm Otabek! ✨
 
 > Backend Developer | Node.js, Express.js, PostgreSQL & System Design Enthusiast
 
