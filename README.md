@@ -43,11 +43,6 @@
 
 ---
 
-## 📂 Featured Projects
-- 📌 **Pinterest Clone:** A full backend REST API featuring secure user authentication, media uploads via Multer, and structured relational data management using TypeORM and PostgreSQL.
-
----
-
 ## 🤝 Let's Connect!
 Always open to collaborating on backend projects or discussing clean system architecture. Feel free to reach out:
 
