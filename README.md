@@ -47,3 +47,4 @@
 Always open to collaborating on backend projects or discussing clean system architecture. Feel free to reach out:
 
 [![](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mahkam0v_ww)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ripz.er0)
